@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BacktestConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\localuser\\TestData\\Test_5_1\\params_5_1.json\"\r\n\"C:\\Users\\localuser\\TestData\\Test_5_1\\data_5_1.csv\"\r\n\"C:\\Users\\localuser\\OutputFile.json\""
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
